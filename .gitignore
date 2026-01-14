@@ -1,0 +1,9 @@
+node_modules/
+vendor/
+**/.env**
+**/.vscode
+**/.temp
+**/.branches
+
+!.env.example
+.DS_Store

@@ -1,0 +1,6 @@
+export const ERROR_CODE = {
+    BAD_REQUEST: 400,
+    NOT_AUTHORIZED: 401,
+    METHOD_NOT_ALLOWED: 405,
+    INTERNAL_ERROR: 500,
+} as const

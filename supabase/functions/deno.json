@@ -1,0 +1,18 @@
+{
+    "imports": {
+        "@supabase/functions-js": "jsr:@supabase/functions-js@^2.89.0",
+        "@supabase/supabase-js": "npm:@supabase/supabase-js@^2.90.1",
+        "type-fest": "npm:type-fest@^5.3.1",
+        "zod": "npm:zod@^4.3.4",
+        "stripe": "npm:stripe@^20.1.2"
+    },
+    "fmt": {
+        "useTabs": false,
+        "semiColons": false,
+        "indentWidth": 4,
+        "singleQuote": false,
+        "proseWrap": "always",
+        "lineWidth": 120
+    },
+    "workspace": ["./*"]
+}
