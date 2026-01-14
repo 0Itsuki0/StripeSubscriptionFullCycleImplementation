@@ -7,4 +7,4 @@ etc.
 ![](./Webhook%20Event.jpg)
 
 For more details, please checkout my blog
-[Complete (Hopefully) Guide to Stripe Subscription With An Actual Spec I Worked On](https://medium.com/@itsuki.enjoy/complete-hopefully-guide-to-stripe-subscription-with-an-actual-spec-i-worked-on-040bb1d1545a?postPublishedType=initial)
+[Complete (Hopefully) Guide to Stripe Subscription With An Actual Spec I Worked On](https://medium.com/@itsuki.enjoy/complete-hopefully-guide-to-stripe-subscription-with-an-actual-spec-i-worked-on-040bb1d1545a)
