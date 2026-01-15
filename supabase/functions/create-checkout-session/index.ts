@@ -61,7 +61,7 @@ Deno.serve(async (req: Request) => {
                 throw new Error("Email undefined for the user.")
             }
             customerId = await createCustomer(user.email)
-            await upsertEntitlement(user.id, user.email)
+            await upsertEntitlement(user.id, customerId)
         } catch (error) {
             return buildErrorResponse(error, ERROR_CODE.BAD_REQUEST)
         }
